@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>rocon_meta_apps</name>
+  <version>0.0.0</version>
+  <description>The rocon_meta_apps package</description>
+
+  <maintainer email="jihoonlee.in@gmail.com">Jihoon Lee</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+    <rocon_metaapp>apps/chirp/chirp.rapp</rocon_metaapp>
+  </export>
+</package>

@@ -1,0 +1,5 @@
+display: Chirp
+description: Make an audible "chirp" sound.
+compatibility: rocon:/*
+launch: rocon_test_apps/chirp.launch
+parent_specification: rocon_meta_apps/chrip
