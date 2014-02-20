@@ -1,5 +1,0 @@
-display: Chirp
-description: Make an audible "chirp" sound.
-compatibility: rocon:/*
-icon: rocon_apps/chirp_bubble_icon.png
-interface: rocon_apps/chirp.interface

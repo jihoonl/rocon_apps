@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>rocon_meta_apps</name>
+  <name>rocon_test_meta_apps_malformed_parent</name>
   <version>0.0.0</version>
   <description>The rocon_meta_apps package</description>
 
@@ -11,6 +11,7 @@
   <buildtool_depend>catkin</buildtool_depend>
 
   <export>
-    <rocon_metaapp>apps/chirp/chirp.rapp</rocon_metaapp>
+    <rocon_metaapp>apps/meta_talker/meta_talker.rapp</rocon_metaapp>
+    <rocon_app>apps/talker/talker.rapp</rocon_app>
   </export>
 </package>
