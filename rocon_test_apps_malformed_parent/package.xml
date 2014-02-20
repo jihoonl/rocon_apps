@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>rocon_test_apps_malfored_parent</name>
+  <version>0.0.0</version>
+  <description>The rocon_test_apps package</description>
+
+  <maintainer email="jihoonl@yujinrobot.com">Jihoon Lee</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+    <rocon_app>apps/talker/talker.rapp</rocon_app>
+    <rocon_app>apps/parent_talker/parent_talker.rapp</rocon_app>
+  </export>
+</package>
