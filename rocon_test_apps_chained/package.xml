@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <name>rocon_test_apps_chained</name>
+  <version>0.0.0</version>
+  <description>The rocon_test_apps_chained package</description>
+
+  <maintainer email="jihoonl@yujinrobot.com">Jihoon Lee</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+    <rocon_app>apps/chirp/chirp.rapp</rocon_app>
+    <rocon_app>apps/parent_chirp/parent_chirp.rapp</rocon_app>
+    <rocon_app>apps/ancestor_chirp/ancestor_chirp.rapp</rocon_app>
+  </export>
+</package>
