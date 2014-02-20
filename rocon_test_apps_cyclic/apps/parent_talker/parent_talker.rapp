@@ -1,0 +1,12 @@
+display: Parent Talker
+description: Default ros style talker tutorial
+compatibility: rocon:/*
+launch: rocon_test_apps_cyclic/parent_talker.launch
+interface: rocon_test_apps_cyclic/parent_talker.interface
+icon: rocon_apps/rocon_bubble.png
+parent_specification: rocon_test_apps_cyclic/talker.rapp
+pairing_clients:
+ - type: android
+   manager:
+     api-level: 10
+     intent-action: com.github.rosjava.android_apps.listener.Listener
