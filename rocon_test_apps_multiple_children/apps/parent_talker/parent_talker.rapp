@@ -2,7 +2,8 @@ display: Parent Talker
 description: Default ros style talker tutorial
 compatibility: rocon:/*
 launch: rocon_test_apps_multiple_children/parent_talker.launch
-interface: rocon_test_apps_multiple_children/parent_talker.interface
+public_interface: rocon_test_apps_multiple_children/parent_talker.interface
+public_parameters: rocon_test_apps_multiple_children/parent_talker.parameters
 icon: rocon_apps/rocon_bubble.png
 pairing_clients:
  - type: android

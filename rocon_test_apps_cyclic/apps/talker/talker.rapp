@@ -1,4 +1,4 @@
+compatibility: rocon://
 launch: rocon_test_apps_basic/talker.launch
-interface: rocon_test_apps_basic/talker.interface
 icon: rocon_apps/rocon_bubble.png
 parent_specification: rocon_test_apps_basic/parent_talker.rapp
