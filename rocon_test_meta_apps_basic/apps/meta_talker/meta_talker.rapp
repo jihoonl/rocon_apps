@@ -1,9 +1,5 @@
 display: Meta Talker
 description: Default ros style talker tutorial
-interface: rocon_test_meta_apps_basic/meta_talker.interface
+public_interface: rocon_test_meta_apps_basic/meta_talker.interface
+public_parameters: rocon_test_meta_apps_basic/meta_talker.parameters
 icon: rocon_apps/rocon_bubble.png
-pairing_clients:
-  - type: android
-    manager:
-      api-level: 10
-      intent-action: com.github.rosjava.android_apps.listener.listener

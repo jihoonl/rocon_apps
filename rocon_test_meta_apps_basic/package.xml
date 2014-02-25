@@ -11,7 +11,7 @@
   <buildtool_depend>catkin</buildtool_depend>
 
   <export>
-    <rocon_metaapp>apps/meta_talker/meta_talker.rapp</rocon_metaapp>
+    <rocon_app>apps/meta_talker/meta_talker.rapp</rocon_app>
     <rocon_app>apps/talker/talker.rapp</rocon_app>
   </export>
 </package>
