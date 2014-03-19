@@ -5,7 +5,7 @@ launch: rocon_test_apps_cyclic/parent_talker.launch
 public_interface: rocon_test_apps_cyclic/parent_talker.interface
 public_parameters: rocon_test_apps_cyclic/parent_talker.parameters
 icon: rocon_apps/rocon_bubble.png
-parent_specification: rocon_test_apps_cyclic/talker.rapp
+parent_name: rocon_test_apps_cyclic/talker.rapp
 pairing_clients:
  - type: android
    manager:

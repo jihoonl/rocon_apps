@@ -1,4 +1,4 @@
 launch: rocon_test_apps_malfored_parent/talker.launch
 interface: rocon_test_apps_malfored_parent/talker.interface
 icon: rocon_apps/rocon_bubble.png
-parent_specification: rocon_test_apps_malfored_parent/parent_talker.rapp
+parent_name: rocon_test_apps_malfored_parent/parent_talker.rapp

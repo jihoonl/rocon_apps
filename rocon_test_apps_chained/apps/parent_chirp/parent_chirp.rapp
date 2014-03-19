@@ -2,4 +2,4 @@ display: Chirp
 description: Make an audible "chirp" sound.
 compatibility: rocon:/*
 launch: rocon_test_apps_chained/parent_chirp.launch
-parent_specification: rocon_test_apps_chained/ancestor_chirp.rapp
+parent_name: rocon_test_apps_chained/ancestor_chirp.rapp
