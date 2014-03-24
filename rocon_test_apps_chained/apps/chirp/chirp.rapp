@@ -1,3 +1,0 @@
-compatibility: rocon:/*
-launch: rocon_test_apps_chained/chirp.launch
-parent_name: rocon_test_apps_chained/chirp.rapp

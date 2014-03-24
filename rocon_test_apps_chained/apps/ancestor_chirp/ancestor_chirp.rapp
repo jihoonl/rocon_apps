@@ -1,4 +1,0 @@
-display: Ancestor Chirp
-description: Make an audible "chirp" sound. It is Ancestor
-compatibility: rocon:/*
-launch: rocon_test_apps/ancestor_chirp.launch

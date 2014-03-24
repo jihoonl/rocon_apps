@@ -1,5 +1,0 @@
-display: Meta Talker
-description: Default ros style talker tutorial
-public_interface: rocon_test_meta_apps_basic/meta_talker.interface
-public_parameters: rocon_test_meta_apps_basic/meta_talker.parameters
-icon: rocon_apps/rocon_bubble.png
